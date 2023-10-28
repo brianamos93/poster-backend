@@ -1,0 +1,2 @@
+DELETE  http://localhost:3001/api/beers/634ea0d14208a243070cf325/
+Content-Type: application/json
